@@ -3,20 +3,11 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-08-07T13:55:51.193865499+02:00"
+    created: "2024-08-07T14:06:37.383499807+02:00"
     description: A Helm chart for my-app
-    digest: 97cd85e7b98351ddcba2b9d9686a9dc034b1296d621256d157d2cf7d07731886
+    digest: 35fb526c118596db21b11bedc79e33dbc17d684530b31a7b072dd0a39d1d5c77
     name: my-app
     urls:
     - https://alexandersolman.github.io/helm-my-app/my-app-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v2
-    appVersion: 0.0.1
-    created: "2024-08-07T13:55:51.193759495+02:00"
-    description: A Helm chart for my-app
-    digest: f3f4157dd11e78604011ad0447dbabde1d987adfd6c052078bdfebe1ff79de69
-    name: my-app
-    urls:
-    - https://alexandersolman.github.io/helm-my-app/my-app-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-08-07T13:55:51.193508054+02:00"
+generated: "2024-08-07T14:06:37.383214694+02:00"

@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-08-07T10:58:50.047051471+02:00"
+    description: A Helm chart for my-app
+    digest: f870ff9dfd624601efb025abc754067eebe079658e04ffbb8fbc8f4245cb7d9e
+    name: my-app
+    urls:
+    - https://alexandersolman.github.io/helm-my-app/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-07T10:58:50.046847854+02:00"
